@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Van Hoang</h1>
 <h3 align="center">Coder from Viet Nam</h3> 
-![](https://komarev.com/ghpvc/?username=zunohoang)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zunohoang&theme=algolia)
 

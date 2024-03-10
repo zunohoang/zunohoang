@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nguyen Van Hoang</h1>
-<h3 align="center">Coder from Viet Nam</h3>
+<h3 align="center">Coder from Viet Nam</h3> ![](https://komarev.com/ghpvc/?username=zunohoang)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zunohoang&theme=algolia)
-![](https://komarev.com/ghpvc/?username=zunohoang)
 
 
 - 👨‍💻 All of my projects are available at [zuno.codes/portfolio](zuno.codes/portfolio)

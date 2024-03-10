@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nguyen Van Hoang</h1>
 <h3 align="center">Coder from Viet Nam</h3>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zunohoang&theme=algolia)
+
 - 👨‍💻 All of my projects are available at [zuno.codes/portfolio](zuno.codes/portfolio)
 
 - 📝 I regularly write articles on [zuno.codes](zuno.codes)

@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [zuno.codes/portfolio](zuno.codes/portfolio)
 
-- 📝 I regularly write articles on [zuno.codes](zuno.codes)
+- 📝 I regularly write articles on [zuno.codes](zuno.codes) (NO)
 
 - 📫 How to reach me **nguyenvanhoang2005nt@gmail.com**
 

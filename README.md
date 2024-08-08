@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nguyen Van Hoang</h1>
 <h3 align="center">Coder from Viet Nam</h3> 
 
-- 👨‍💻 All of my projects are available at [zuno.codes/portfolio](zuno.codes/portfolio)
+- 👨‍💻 Web Developer
 
-- 📝 I regularly write articles on [zuno.codes](zuno.codes) (NO)
+- 📝 I regularly write articles on [zuno.codes](zuno.codes) (inactive)
 
 - 📫 How to reach me **nguyenvanhoang2005nt@gmail.com**
 

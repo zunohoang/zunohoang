@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nguyen Van Hoang</h1>
 <h3 align="center">Coder from Viet Nam</h3> 
 
-- 👨‍💻 Web Developer
+- 👨‍💻 Web Developer ![](https://komarev.com/ghpvc/?username=zunohoang)
 
 - 📝 I regularly write articles on [zuno.codes](zuno.codes) (inactive)
 

@@ -13,7 +13,7 @@ zuno (
       frontend: ["nextjs", "reactjs", "tailwindcss"],
       backend: ["expressjs", "spring boot"],
       languages: ["typescript", "javascript", "java", "c/c++", "python"],
-      technologies: ["docker", "redis", "rabbitMQ"],
+      technologies: ["docker", "redis", "rabbitMQ", "websocket", "mqtt"],
       database: ["mysql", "mongodb"]
   ],
   contacts: {

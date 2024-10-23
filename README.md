@@ -10,8 +10,6 @@ zuno (
   bornOn: "2005",
   location: ["Ha Noi", "Ha Tinh"],
   interests: [
-      frameworks: ["expressjs", "nextjs", "spring"],
-      lib: ["reactjs", "tailwindcss"],
       frontend: ["nextjs", "reactjs", "tailwindcss"],
       backend: ["expressjs", "spring boot"],
       languages: ["typescript", "javascript", "java", "c/c++", "python"],

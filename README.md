@@ -2,6 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=zunohoang)
 
+\> `sudo zunohoang -v`
 ```JSX
 zuno (
   fullName: "Nguyen Van Hoang",
@@ -23,3 +24,7 @@ zuno (
   }
 )
 ```
+\> `npm i zunohoang`
+
+`Loading...`
+

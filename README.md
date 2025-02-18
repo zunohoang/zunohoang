@@ -10,7 +10,7 @@ zuno (
   aliases: ["zunohoang", "hoangapk", "hoangchuot"],
   bornOn: "2005",
   location: ["Ha Noi", "Ha Tinh"],
-  someProjects: ['edu-market.vercel.app', 'study.sfit.com.vn', 'sfit.com.vn', '...'],
+  someProjects: ['edu-market.vercel.app', 'oj.zunoh.me(BE not working)', 'study.sfit.com.vn', 'sfit.com.vn', '...'],
   interests: [
       frontend: ["nextjs", "reactjs", "tailwindcss"],
       backend: ["expressjs", "spring boot"],

@@ -10,12 +10,12 @@ zuno (
   aliases: ["zunohoang", "hoangapk", "hoangchuot"],
   bornOn: "2005",
   location: ["Ha Noi", "Ha Tinh"],
-  someProjects: ['edu-market.vercel.app', 'oj.zunoh.me(BE not working)', 'study.sfit.com.vn', 'sfit.com.vn', '...'],
+  someProjects: ['edu-market.vercel.app(BE expired)', 'oj.zunoh.me(BE expired)', 'study.sfit.com.vn', 'sfit.com.vn', '...'],
   interests: [
       frontend: ["nextjs", "reactjs", "tailwindcss"],
       backend: ["expressjs", "spring boot"],
       languages: ["typescript", "javascript", "java", "c/c++", "python"],
-      technologies: ["docker", "redis", "websocket", "mqtt"],
+      technologies: ["docker", "redis", "websocket", "mqtt", "..."],
       database: ["mysql", "mongodb"]
   ],
   contacts: {

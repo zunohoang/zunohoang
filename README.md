@@ -16,7 +16,7 @@ zuno (
       backend: ["expressjs", "spring boot"],
       languages: ["typescript", "javascript", "java", "c/c++", "python"],
       technologies: ["docker", "redis", "websocket", "mqtt", "..."],
-      database: ["mysql", "mongodb"]
+      database: ["postgresql", "mongodb"]
   ],
   contacts: {
       email: ["nguyenvanhoang2005nt@gmail.com"],
